@@ -26,6 +26,7 @@ export default function About() {
             </a> */}
             {/* remember to add previous work component */}
             {/* additional comment */}
+            {/* another one */}
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
