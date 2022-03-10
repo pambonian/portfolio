@@ -25,6 +25,7 @@ export default function About() {
               See My Past Work
             </a> */}
             {/* remember to add previous work component */}
+            {/* additional comment */}
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
